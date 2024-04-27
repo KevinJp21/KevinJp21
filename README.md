@@ -22,7 +22,7 @@ Systems Engineer with extensive experience in web development, standing out for 
 
 
 ###
-
+## Contributions
 <img src="https://raw.githubusercontent.com/KevinJp21/KevinJp21/output/snake.svg" alt="Snake animation" />
 
 ###
