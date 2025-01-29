@@ -2,7 +2,7 @@
 <p align="center">Frontend developer from Barranquilla, Colombia 🇨🇴.</p>
 Systems Engineer with extensive experience in web development, standing out for my ability to adapt to different technologies and programming environments. I consider myself passionate about continuous learning and I am always looking for new skills to improve and master. I deeply value teamwork, convinced that effective collaboration is key to achieve the most ambitious goals and generate positive impact on projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/KevinJp21?tab=repositories](https://github.com/KevinJp21?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://portfolio-kj.vercel.app/](https://portfolio-kj.vercel.app/)
 
 - 📫 How to reach me **kevinjp821@gmail.com**
 
