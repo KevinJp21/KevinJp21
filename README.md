@@ -1,6 +1,13 @@
 <h1 align="center">Hi, I'm Kevin Julio</h1>
 <p align="center">Fullstack developer from Barranquilla, Colombia 🇨🇴.</p>
-Systems Engineer with extensive experience in web development, standing out for my ability to adapt to different technologies and programming environments. I consider myself passionate about continuous learning and I am always looking for new skills to improve and master. I deeply value teamwork, convinced that effective collaboration is key to achieve the most ambitious goals and generate positive impact on projects.
+
+I'm Kevin Julio, a Systems Engineer and Full-Stack Developer with experience creating web and e-commerce applications from the ground up.
+
+I've built custom Shopify storefronts using **Liquid** and **JavaScript**, and headless e-commerce projects using **React**, **TypeScript**, **Remix**, and **GraphQL**, focusing on responsive UIs and configurable features.
+
+I also work with **backend technologies**, **relational databases**, **Linux server deployment**, and have implemented **AI-based process automation** in some projects.
+
+I value clean, maintainable code and solutions aligned with real business needs.
 
 - 👨‍💻 All of my projects are available at https://kevinjp.dev/
 
