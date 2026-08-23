@@ -24,7 +24,3 @@ I value clean, maintainable code and solutions aligned with real business needs.
 ## ⌨️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KevinJp21&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevinJp21&theme=react&hide_border=false)
-
-###
-## ✅ Contributions
-<img src="https://raw.githubusercontent.com/KevinJp21/KevinJp21/output/snake.svg" alt="Snake animation" />
