@@ -1,26 +1,46 @@
 <h1 align="center">Hi, I'm Kevin Julio</h1>
-<p align="center">Fullstack developer from Barranquilla, Colombia 🇨🇴.</p>
+<p align="center">
+  Full Stack Developer · Frontend Specialist<br/>
+  Barranquilla, Colombia 🇨🇴
+</p>
 
-I'm Kevin Julio, a Systems Engineer and Full-Stack Developer with experience creating web and e-commerce applications from the ground up.
+Systems Engineer and Full Stack Developer. I build web applications with **React**, **Next.js**, **TypeScript**, **C#** and **.NET**: scalable frontends, REST APIs, and relational databases (**PostgreSQL**, **MySQL**).
 
-I've built custom Shopify storefronts using **Liquid** and **JavaScript**, and headless e-commerce projects using **React**, **TypeScript**, **Remix**, and **GraphQL**, focusing on responsive UIs and configurable features.
+I apply **Feature-Sliced Design**, **Clean Architecture** and **CQRS**, and ship with **Docker**, **AWS** and Git. Frontend is my main focus; I also cover backend, data and deployment when the product needs it.
 
-I also work with **backend technologies**, **relational databases**, **Linux server deployment**, and have implemented **AI-based process automation** in some projects.
+- 👨‍💻 Portfolio: [kevinjp.dev](https://kevinjp.dev/)
+- 📫 Email: **kevinjp821@gmail.com**
+- 💻 [LinkedIn](https://www.linkedin.com/in/kevinjulio/)
 
-I value clean, maintainable code and solutions aligned with real business needs.
+## Languages and Tools
 
-- 👨‍💻 All of my projects are available at https://kevinjp.dev/
+**Daily**  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 📫 How to reach me **kevinjp821@gmail.com**
+**Also used**  
+![Remix](https://img.shields.io/badge/Remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-%2396BF48.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-- 💻 [Linkedin](https://www.linkedin.com/in/kevinjulio/)
+## Top Skills
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KevinJp21&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 💻 Languages and Tools
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-## 📊 Top Skills:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KevinJp21&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact)</br>
-
-## ⌨️ GitHub Stats:
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=KevinJp21&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevinJp21&theme=react&hide_border=false)
